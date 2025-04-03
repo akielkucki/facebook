@@ -10,8 +10,8 @@ export default function Header() {
                         <Image
                             src="/yester-logo.png"
                             alt="Yester Logo"
-                            width={32}
-                            height={32}
+                            width={400}
+                            height={300}
                             className="h-8 w-auto"
                         />
                     </div>
